@@ -9,10 +9,10 @@ My output is below:
 Hello...
 Hi, my name is Meta.
 Write complete
-Append complete
+Append complete`
 
 
-➜  async_terminal_log_JS git:(main) ✗ node log2.js
+`➜  async_terminal_log_JS git:(main) ✗ node log2.js
 Hello...
 Hi, my name is Meta.
 Write complete
