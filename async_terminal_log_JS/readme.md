@@ -3,7 +3,7 @@ Run both the `log1.js` and `log2.js`, and you will notice the difference when th
 
 Be sure to erase the `reply.txt` before you run the `log2.js` to get the same conditions for testing.
 
-So to clarify, I got this output when I ran `log1.js`and `log2.js` (deleting `reply.txt` the dsecond time before running `log2.js`). The `Write complete` in the first file logged before `Hi, my name is Meta.` and in the second file it logges after.
+So to clarify, I got this output when I ran `log1.js`and `log2.js` (deleting `reply.txt` the second time before running `log2.js`). The `Write complete` in the first file logged before `Hi, my name is Meta.` and in the second file it logges after.
 
 ```
 ➜  async_terminal_log_JS git:(main) node log1.js
