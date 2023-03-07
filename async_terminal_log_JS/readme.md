@@ -5,16 +5,16 @@ Be sure to erase the `reply.txt` before you run the `log2.txt`.
 
 My output is below:
 
-`➜  async_terminal_log_JS git:(main) node log1.js
-Hello...
-Hi, my name is Meta.
-Write complete
-Append complete`
-
-
-`➜  async_terminal_log_JS git:(main) ✗ node log2.js
+```➜  async_terminal_log_JS git:(main) node log1.js
 Hello...
 Hi, my name is Meta.
 Write complete
 Append complete
-`
+
+
+➜  async_terminal_log_JS git:(main) ✗ node log2.js
+Hello...
+Hi, my name is Meta.
+Write complete
+Append complete
+```
